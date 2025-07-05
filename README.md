@@ -40,3 +40,6 @@ This is a full-stack web application built using the **MERN stack** (MongoDB, Ex
 cd backend
 npm install
 npm start
+![image](https://github.com/user-attachments/assets/6c02ebec-6609-411e-82ac-8f01e98a5750)
+
+
