@@ -2,6 +2,7 @@
 
 This is a full-stack web application built using the **MERN stack** (MongoDB, Express.js, React, Node.js) to manage and visualize transaction data. It fetches product transaction data from a third-party API and provides analytics through tables, statistics, bar charts, and pie charts.
 
+https://github.com/SaurabhDighe2003/MERN_Coding_Challenge/blob/main/Screenshot%202025-07-05%20191745.png?raw=true
 ---
 
 ## 🚀 Features
